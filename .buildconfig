@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/catalin/.cache/gnome-builder/install/julia_and_mandelbrot/host
+app-id=
+postbuild=
+prebuild=
+default=true
